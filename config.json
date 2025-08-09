@@ -27,6 +27,14 @@
       "api": "https://mozhuazy.com/api.php/provide/vod",
       "name": "魔爪资源"
     },
+    "ckzy": {
+      "api": "https://www.ckzy1.com/api.php/provide/vod",
+      "name": "CK资源"
+    },
+    "jkzy": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "jk资源"
+    },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "name": "卧龙影视"
